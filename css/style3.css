@@ -168,7 +168,7 @@ a:focus {
 
 .cube:not(.cube--inactive):nth-child(12) .cube__side,
 .no-js .cube:not(.cube--inactive):nth-child(12) {
-	background-image: url(../img/cp1.png);
+	background-image: url(../img/cp3.png);
 	color: #cddc39;
 }
 
